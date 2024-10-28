@@ -8,6 +8,6 @@ Haz clic en el siguiente enlace para ver el dashboard en Tableau Public:
 
 ### Streamlit
 
-Este proyecto visualiza algunos gráficos adicionales
+Este proyecto visualiza algunos gráficos adicionales:
 
 [Visita la aplicación en Streamlit Cloud](https://proyectohomicidios-k4vgidappkhpekotecnblzn.streamlit.app/)
