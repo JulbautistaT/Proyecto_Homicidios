@@ -1,3 +1,5 @@
+# Archivo con la conexión de MySQUL y sus debidas consultas en la base de datos
+
 import pandas as pd
 import plotly.express as px
 import mysql.connector
@@ -205,6 +207,3 @@ finally:
     if 'conn' in locals() and conn.is_connected():
         conn.close()
         st.write("Conexión cerrada.")
-
-# C:\Users\telle\OneDrive\Documents\SQL Bootcamp\Proyecto\EstadisticosHomicidios.py
-# streamlit run "C:\Users\telle\OneDrive\Documents\SQL Bootcamp\Proyecto\EstadisticosHomicidios.py"
